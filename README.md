@@ -1,8 +1,7 @@
-<!-- Üstteki başlık resmi -->
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/682031076/6450ef39-fedc-4b67-b677-666ae367c98e" 
        alt="MasterHead" 
-       width="600" 
+       width="1000" 
        height="300">
 </p>
 
