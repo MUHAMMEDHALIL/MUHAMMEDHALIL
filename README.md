@@ -6,12 +6,7 @@
        height="300">
 </p>
 
-<!-- Profil resmi veya başka bir görsel -->
-<p align="center">
-  <img src="resim-linkiniz.png" 
-       alt="Açıklama" 
-       width="400">
-</p>
+
 
 
 - 👋 Hi, I’m @MUHAMMEDHALIL
