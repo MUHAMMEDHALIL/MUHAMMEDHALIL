@@ -1,8 +1,17 @@
-![MasterHead](https://repository-images.githubusercontent.com/682031076/6450ef39-fedc-4b67-b677-666ae367c98e)
+<!-- Üstteki başlık resmi -->
 <p align="center">
-  <img src="resim-linkiniz.png" alt="Açıklama" width="400" height="400">
+  <img src="https://repository-images.githubusercontent.com/682031076/6450ef39-fedc-4b67-b677-666ae367c98e" 
+       alt="MasterHead" 
+       width="600" 
+       height="300">
 </p>
 
+<!-- Profil resmi veya başka bir görsel -->
+<p align="center">
+  <img src="resim-linkiniz.png" 
+       alt="Açıklama" 
+       width="400">
+</p>
 
 
 - 👋 Hi, I’m @MUHAMMEDHALIL
